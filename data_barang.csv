@@ -1,0 +1,61 @@
+﻿No,Kode Barang,Barcode (EAN-13),Nama Barang,Kategori,Satuan,Harga Beli (Modal),Harga Jual,Margin (Rp),Margin (%),Stok Saat Ini,Stok Minimum,Total Nilai Aset,Foto Barang,Status
+1,BRG-0001,8992745120015,Lampu Phillip ungu (4 watt),Peralatan Listrik,Pcs,35000,45000,10000,0.2857,3,1,105000,BRG-0001.jpg,Aktif
+2,BRG-0002,8992745120022,Lampu Phillip ungu (6 watt),Peralatan Listrik,Pcs,40000,50000,10000,0.25,3,1,120000,BRG-0002.jpg,Aktif
+3,BRG-0003,8992745120039,Lampu Phillip ungu (8 watt),Peralatan Listrik, Pcs,43000,55000,12000,0.2791,3,1,129000,BRG-0003.jpg,Aktif
+4,BRG-0004,8993175110014,Lampu Phillip ungu (10 watt),Peralatan Listrik, Pcs,48000,60000,12000,0.25,3,1,144000,BRG-0004.jpg,Aktif
+5,BRG-0005,8998866100018,Lampu Phillip ungu (12 watt),Peralatan Listrik, Pcs,53000,67000,14000,0.2642,3,1,159000,BRG-0005.jpg,Aktif
+6,BRG-0006,8998866100025, Lampu Phillip ungu (19 watt),Peralatan Listrik, Pcs,88000,110000,22000,0.25,3,1,264000,BRG-0006.jpg,Aktif
+7,BRG-0007,8992772000114, Lampu Phillip ungu (18 watt),Peralatan Listrik, Pcs,86000,106000,20000,0.2326,3,1,258000,BRG-0007.jpg,Aktif
+8,BRG-0008,8991001100052, Lampu Phillip ungu (22 watt) capsul,Peralatan Listrik, Pcs,86000,106000,20000,0.2326,3,1,258000,BRG-0008.jpg,Aktif
+9,BRG-0009,8998866200114, Lampu Phillip ungu (30 watt) capsul,Peralatan Listrik, Pcs,88000,110000,22000,0.25,3,1,264000,BRG-0009.jpg,Aktif
+10,BRG-0010,8998866200121,Lampu Phillip hijau (7 watt),Peralatan Listrik,Pcs,35000,45000,10000,0.2857,3,1,105000,BRG-0001.jpg,Aktif
+11,BRG-0011,8998866200138,Lampu Phillip hijau (9 watt),Peralatan Listrik,Pcs,40000,50000,10000,0.25,3,1,120000,BRG-0002.jpg,Aktif
+12,BRG-0012,8992388110012,Lampu Phillip hijau (11 watt),Peralatan Listrik, Pcs,43000,55000,12000,0.2791,3,1,129000,BRG-0003.jpg,Aktif
+13,BRG-0013,8992388110029,Lampu Phillip hijau (15 watt),Peralatan Listrik, Pcs,53000,67000,14000,0.2642,3,1,159000,BRG-0004.jpg,Aktif
+14,BRG-0014,8991002101010,Lampu Phillip hijau (13 watt),Peralatan Listrik, Pcs,51000,65000,14000,0.2745,3,1,153000,BRG-0005.jpg,Aktif
+15,BRG-0015,8996001301015,Lampu Luby Sumo (12 watt),Peralatan Listrik, Pcs,15000,22000,7000,0.4667,3,1,45000,BRG-0006.jpg,Aktif
+16,BRG-0016,8991002102024,Lampu Luby Sumo (16 watt),Peralatan Listrik, Pcs,19000,25000,6000,0.3158,3,1,57000,BRG-0007.jpg,Aktif
+17,BRG-0017,8992775101016,Lampu Luby Sumo (22 watt),Peralatan Listrik, Pcs,24000,35000,11000,0.4583,3,1,72000,BRG-0008.jpg,Aktif
+18,BRG-0018,8992775102020,Lampu Luby Sumo (30 watt),Peralatan Listrik, Pcs,34000,50000,16000,0.4706,3,1,102000,BRG-0009.jpg,Aktif
+19,BRG-0019,8992771001013,Lampu Luby Sumo (40 watt),Peralatan Listrik, Pcs,47000,65000,18000,0.383,3,1,141000,BRG-0019.jpg,Aktif
+20,BRG-0020,8992771001020,Lampu Aoki Saphire (5 watt),Peralatan Listrik, Pcs,7000,12000,5000,0.7143,3,1,21000,BRG-0020.jpg,Aktif
+21,BRG-0021,8996001410014,Lampu Aoki Saphire (7 watt),Peralatan Listrik, Pcs,10000,15000,5000,0.5,3,1,30000,BRG-0021.jpg,Aktif
+22,BRG-0022,8992753101013,Lampu Aoki Saphire (9 watt),Peralatan Listrik, Pcs,11000,17000,6000,0.5455,3,1,33000,BRG-0022.jpg,Aktif
+23,BRG-0023,8992753102027,Lampu Aoki Saphire (12 watt),Peralatan Listrik, Pcs,12500,20000,7500,0.6,3,1,37500,BRG-0023.jpg,Aktif
+24,BRG-0024,8992741981014,Lampu Aoki Saphire (15 watt),Peralatan Listrik, Pcs,14500,25000,10500,0.7241,3,1,43500,BRG-0024.jpg,Aktif
+25,BRG-0025,8992741981021,Lampu Aoki Saphire (18 watt),Peralatan Listrik, Pcs,18000,28000,10000,0.5556,3,1,54000,BRG-0025.jpg,Aktif
+26,BRG-0026,8992787110013,Lampu Panaled (10 watt),Peralatan Listrik, Pcs,3700,8000,4300,1.1622,3,1,11100,BRG-0026.jpg,Aktif
+27,BRG-0027,8991001410106,Lampu Panaled (15 watt),Peralatan Listrik, Pcs,4400,12000,7600,1.7273,3,1,13200,BRG-0027.jpg,Aktif
+28,BRG-0028,8992753103031,Lampu Panaled (20 watt),Peralatan Listrik, Pcs,5400,15000,9600,1.7778,3,1,16200,BRG-0028.jpg,Aktif
+29,BRG-0029,8998866300012,Lampu Cyoda Super ,Peralatan Listrik, Pcs,6500,9000,2500,0.3846,3,1,19500,BRG-0029.jpg,Aktif
+30,BRG-0030,8992753201010,Saklar Broko Satu Tanam,Peralatan Listrik, Pcs,13200,18000,4800,0.3636,3,1,39600,BRG-0030.jpg,Aktif
+31,BRG-0031,8992753202024,Saklar Broko Dua Tanam,Peralatan Listrik, Pcs,15000,20000,5000,0.3333,3,1,45000,BRG-0031.jpg,Aktif
+32,BRG-0032,8992743110018,Stop Kontak,Peralatan Listrik, Pcs,14000,18000,4000,0.2857,3,1,42000,BRG-0032.jpg,Aktif
+33,BRG-0033,8992761100015,Steker Bulat Broco,Peralatan Listrik, Pcs,11000,14000,3000,0.2727,3,1,33000,BRG-0033.jpg,Aktif
+34,BRG-0034,8992745300011,T arde Broco,Peralatan Listrik, Pcs,23000,28000,5000,0.2174,3,1,69000,BRG-0034.jpg,Aktif
+35,BRG-0035,8992753203038,Staker Gepeng Broco Hitam,Peralatan Listrik, Pcs,3200,5000,1800,0.5625,3,1,9600,BRG-0035.jpg,Aktif
+36,BRG-0036,8991002201017,Minyak Zippo,Peralatan Tangan,Pouch,31500,40000,8500,0.2698,3,1,94500,BRG-0036.jpg,Aktif
+37,BRG-0037,8991002202021,Robinson,Peralatan Tangan,Pouch,21000,32000,11000,0.5238,3,1,63000,BRG-0037.jpg,Aktif
+38,BRG-0038,8992388201018,Batu Zippo,Peralatan Tangan,Bks,10000,20000,10000,1.0,3,1,30000,BRG-0038.jpg,Aktif
+39,BRG-0039,8992770101011,Sumbu Zippo,Peralatan Tangan, Pcs,10000,15000,5000,0.5,3,1,30000,BRG-0039.jpg,Aktif
+40,BRG-0040,8991002203035,Gas Portabel,Peralatan Tangan,Pouch,15000,20000,5000,0.3333,3,1,45000,BRG-0040.jpg,Aktif
+41,BRG-0041,8991002204049, Kompor Portabel,Peralatan Listrik,Kaleng,90000,110000,20000,0.2222,3,1,270000,BRG-0041.jpg,Aktif
+42,BRG-0042,8992770201018,Anti Karat XD,Perkakas Bangunan,Bks,28000,35000,7000,0.25,3,1,84000,BRG-0042.jpg,Aktif
+43,BRG-0043,8991002301014,Pelumas Rantai ,Peralatan Tangan,Pouch,22500,30000,7500,0.3333,3,1,67500,BRG-0043.jpg,Aktif
+44,BRG-0044,8991002302028, Vacoom Cleaner,Peralatan Listrik,Kotak,23500,35000,11500,0.4894,3,1,70500,BRG-0044.jpg,Aktif
+45,BRG-0045,8991002303032,Gembok 30 Pendek,Baut dan Mur,Btl,6000,13000,7000,1.1667,3,1,18000,BRG-0045.jpg,Aktif
+46,BRG-0046,8992770301015, Gembok 30 Panjang,Baut dan Mur,Btl,6500,14000,7500,1.1538,3,1,19500,BRG-0046.jpg,Aktif
+47,BRG-0047,8991002304046, Gembok 40 Pendek,Baut dan Mur,Btl,8000,15000,7000,0.875,3,1,24000,BRG-0047.jpg,Aktif
+48,BRG-0048,8992770401012, Gembok 40 Panjang,Baut dan Mur,Pack,8500,17000,8500,1.0,3,1,25500,BRG-0048.jpg,Aktif
+49,BRG-0049,8992770501019, Gembok 50 Pendek,Baut dan Mur,Pack,10000,20000,10000,1.0,3,1,30000,BRG-0049.jpg,Aktif
+50,BRG-0050,8993175301016, Gembok 50 Panjang,Baut dan Mur,Tube,12000,25000,13000,1.0833,3,1,36000,BRG-0050.jpg,Aktif
+51,BRG-0051,8992787201018, Gergazi Besi Sunflex,Perkakas Bangunan,Box,12500,15000,2500,0.2,3,1,37500,BRG-0051.jpg,Aktif
+52,BRG-0052,8992745401015, Nodrop,Perkakas Bangunan,Btl,65000,70000,5000,0.0769,3,1,195000,BRG-0052.jpg,Aktif
+53,BRG-0053,8992755101011, Petakan Hamplas tempel,Perkakas Bangunan,Strip,4000,10000,6000,1.5,3,1,12000,BRG-0053.jpg,Aktif
+54,BRG-0054,8992787301015, Tusla Kuningan,Perkakas Bangunan,Strip,30000,38000,8000,0.2667,3,1,90000,BRG-0054.jpg,Aktif
+55,BRG-0055,8992787401012, Pilox,Perkakas Bangunan,Btl,24000,30000,6000,0.25,3,1,72000,BRG-0055.jpg,Aktif
+56,BRG-0056,8992787501019, Kunci Silinder Besar,Baut dan Mur,Kotak,27500,40000,12500,0.4545,3,1,82500,BRG-0056.jpg,Aktif
+57,BRG-0057,8992791101014, Role Cat Gagang Kecil,Perkakas Bangunan,Lusin,10000,12000,2000,0.2,3,1,30000,BRG-0057.jpg,Aktif
+58,BRG-0058,8992791201011, Meteran 3m,Perkakas Bangunan,Pack,8000,15000,7000,0.875,3,1,24000,BRG-0058.jpg,Aktif
+59,BRG-0059,8992791301018, Meteran 5m,Perkakas Bangunan,Pcs,8500,20000,11500,1.3529,3,1,25500,BRG-0059.jpg,Aktif
+60,BRG-0060,8992791401015," Meteran 7,5m transparan",Perkakas Bangunan,Rim,16500,35000,18500,1.1212,3,1,49500,BRG-0060.jpg,Aktif
